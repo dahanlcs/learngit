@@ -1,3 +1,3 @@
 i love writing java
-i love c plus plus
+i love c plus
 i love china
